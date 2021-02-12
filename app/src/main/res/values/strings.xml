@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="irActivity2">Ir a Actividad 2</string>
+    <string name="irActivity3">Ir a Actividad 3</string>
+    <string name="Creartabla">Crear tabla</string>
+    <string name="guardar_datos">Guardar datos</string>
+    <string name="Consultardatos">Consultar tabla</string>
+    <string name="VolverActivity1">Ir a la Actividad 1</string>
+    <string name="foto">Logo de la Aplicacion</string>
+    <string name="CrearServicio">Crear Servicio</string>
+    <string name="DetenerServicio">Detener Servicio</string>
+    <string name="Buttonon">Poner mp3</string>
+    <string name="Buttonoff">Parar mp3</string>
+    <string name="Buttonpause">Pausar mp3 15 segundos</string>
+    <string name="Teléfono">Telefono </string>
+    <string name="EtId">Identidad BBDD</string>
+    <string name="EtNombre">Nombre BBDD</string>
+    <string name="EtApellidos">Apellidos BBDD</string>
+    <string name="EtTelefono">Teléfono BBDD</string>
+    <string name="ir_a_la_actividad_2">ir a la Actividad 2</string>
+    <string name="ir_a_la_actividad_3">ir a la Actividad 3</string>
+    <string name="ir_actividad_2">ir Actividad 2</string>
+    <string name="ir_actividad_3">ir Actividad 3</string>
+
+    <string-array  name="Spinner">
+        <item>OPCIONES DEL SERVICIO CREADO:</item>
+        <item>Sonar mp3</item>
+        <item>Parar mp3</item>
+        <item>Congelar aplicación 15 segundos</item>
+    </string-array>
+
+</resources>
